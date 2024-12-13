@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\progetti\\udemy\\Blasor\\BlasorDeepDive\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE58FBE-26BE-41D6-B20A-6BDF47179BA3}|BlasorManagement\\BlasorManagement.csproj|d:\\progetti\\udemy\\blasor\\blasordeepdive\\blasormanagement\\components\\controls\\servercomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9DE58FBE-26BE-41D6-B20A-6BDF47179BA3}|BlasorManagement\\BlasorManagement.csproj|solutionrelative:blasormanagement\\components\\controls\\servercomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE58FBE-26BE-41D6-B20A-6BDF47179BA3}|BlasorManagement\\BlasorManagement.csproj|d:\\progetti\\udemy\\blasor\\blasordeepdive\\blasormanagement\\models\\cityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE58FBE-26BE-41D6-B20A-6BDF47179BA3}|BlasorManagement\\BlasorManagement.csproj|solutionrelative:blasormanagement\\models\\cityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE58FBE-26BE-41D6-B20A-6BDF47179BA3}|BlasorManagement\\BlasorManagement.csproj|d:\\progetti\\udemy\\blasor\\blasordeepdive\\blasormanagement\\models\\serverrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE58FBE-26BE-41D6-B20A-6BDF47179BA3}|BlasorManagement\\BlasorManagement.csproj|solutionrelative:blasormanagement\\models\\serverrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE58FBE-26BE-41D6-B20A-6BDF47179BA3}|BlasorManagement\\BlasorManagement.csproj|d:\\progetti\\udemy\\blasor\\blasordeepdive\\blasormanagement\\models\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE58FBE-26BE-41D6-B20A-6BDF47179BA3}|BlasorManagement\\BlasorManagement.csproj|solutionrelative:blasormanagement\\models\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE58FBE-26BE-41D6-B20A-6BDF47179BA3}|BlasorManagement\\BlasorManagement.csproj|d:\\progetti\\udemy\\blasor\\blasordeepdive\\blasormanagement\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9DE58FBE-26BE-41D6-B20A-6BDF47179BA3}|BlasorManagement\\BlasorManagement.csproj|solutionrelative:blasormanagement\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CityRepository.cs",
+              "DocumentMoniker": "D:\\progetti\\udemy\\Blasor\\BlasorDeepDive\\BlasorManagement\\Models\\CityRepository.cs",
+              "RelativeDocumentMoniker": "BlasorManagement\\Models\\CityRepository.cs",
+              "ToolTip": "D:\\progetti\\udemy\\Blasor\\BlasorDeepDive\\BlasorManagement\\Models\\CityRepository.cs",
+              "RelativeToolTip": "BlasorManagement\\Models\\CityRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T05:32:24.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "D:\\progetti\\udemy\\Blasor\\BlasorDeepDive\\BlasorManagement\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "BlasorManagement\\Components\\_Imports.razor",
+              "ToolTip": "D:\\progetti\\udemy\\Blasor\\BlasorDeepDive\\BlasorManagement\\Components\\_Imports.razor",
+              "RelativeToolTip": "BlasorManagement\\Components\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T04:49:29.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServerRepository.cs",
+              "DocumentMoniker": "D:\\progetti\\udemy\\Blasor\\BlasorDeepDive\\BlasorManagement\\Models\\ServerRepository.cs",
+              "RelativeDocumentMoniker": "BlasorManagement\\Models\\ServerRepository.cs",
+              "ToolTip": "D:\\progetti\\udemy\\Blasor\\BlasorDeepDive\\BlasorManagement\\Models\\ServerRepository.cs",
+              "RelativeToolTip": "BlasorManagement\\Models\\ServerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T21:07:28.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Server.cs",
+              "DocumentMoniker": "D:\\progetti\\udemy\\Blasor\\BlasorDeepDive\\BlasorManagement\\Models\\Server.cs",
+              "RelativeDocumentMoniker": "BlasorManagement\\Models\\Server.cs",
+              "ToolTip": "D:\\progetti\\udemy\\Blasor\\BlasorDeepDive\\BlasorManagement\\Models\\Server.cs",
+              "RelativeToolTip": "BlasorManagement\\Models\\Server.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T18:23:38.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServerComponent.razor",
+              "DocumentMoniker": "D:\\progetti\\udemy\\Blasor\\BlasorDeepDive\\BlasorManagement\\Components\\Controls\\ServerComponent.razor",
+              "RelativeDocumentMoniker": "BlasorManagement\\Components\\Controls\\ServerComponent.razor",
+              "ToolTip": "D:\\progetti\\udemy\\Blasor\\BlasorDeepDive\\BlasorManagement\\Components\\Controls\\ServerComponent.razor",
+              "RelativeToolTip": "BlasorManagement\\Components\\Controls\\ServerComponent.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T18:17:05.592Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

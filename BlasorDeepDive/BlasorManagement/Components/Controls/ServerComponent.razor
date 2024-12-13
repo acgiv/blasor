@@ -1,0 +1,35 @@
+﻿
+@foreach (String elem in citys){
+	<button type="button" class="btn btn-primary me-2 ">@elem</button>
+}
+
+<lu>
+	@foreach(var elem in servers){
+		<li>@elem.Name  @elem.City @elem.Id, <span style="color: @(elem.IsOnline?"red":"green")">@elem.IsOnline</span> </li>
+	}
+</lu>
+
+@code {
+	private List<Server> servers;
+	private List<String> citys = CityRepository.getCityes();
+
+
+	// metodo che assicura l'iniziazizazione dei componenti in blasors
+	protected override void OnInitialized()
+	{
+		servers = ServerRepository.GetServers(); // Usa "GetServers" con la "G" maiuscola
+	}
+
+
+	// Metodo per modificare i dettagli del server
+	private void UpdateServerDetails()
+	{
+	
+	}
+
+	private string getCapitalize(string stringa) {
+		stringa = stringa.Trim();
+		return $"{stringa.Substring(0, 1).ToUpper()}{stringa.Substring(1).ToLower()}";
+	}
+
+}

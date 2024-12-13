@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\progetti\\udemy\\Blasor\\BlasorDeepDive\\BlasorManagement\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlasorManagement.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BlasorManagement.70ty719x2f.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\progetti\\udemy\\Blasor\\BlasorDeepDive\\BlasorManagement\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "D:\\progetti\\udemy\\Blasor\\BlasorDeepDive\\BlasorManagement\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\progetti\\udemy\\Blasor\\BlasorDeepDive\\BlasorManagement\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\progetti\\udemy\\Blasor\\BlasorDeepDive\\BlasorManagement\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlasorManagement.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlasorManagement.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BlasorManagement.props",
+      "PackagePath": "build\\BlasorManagement.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlasorManagement.props",
+      "PackagePath": "buildMultiTargeting\\BlasorManagement.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlasorManagement.props",
+      "PackagePath": "buildTransitive\\BlasorManagement.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
